@@ -111,6 +111,7 @@ Rather than only configuring security controls, the project demonstrates the com
                 Attack → Telemetry → Detection → Investigation → Response → Hardening
 
 Evidence
+
 Evidence includes:
 
 Keycloak authentication/security events
@@ -137,7 +138,9 @@ Threat intelligence integration
 Cloud deployment using AWS/Azure security services
 
 Author
+
 Joseph Alpha Tech
+
 Cybersecurity Engineer • Cloud Security Engineer • Security Consultant • IAM • Security Engineering • Detection & Incident Response
 
 GitHub: github.com/JosephAlpha222
