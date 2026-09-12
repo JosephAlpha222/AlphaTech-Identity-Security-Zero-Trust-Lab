@@ -50,8 +50,10 @@ Identity → Authentication → Authorization → Attack Simulation → Telemetr
                               │ & Response    │
                               └───────────────┘
 
-Technologies
-Keycloak — Identity and Access Management
+<img width="1312" height="1199" alt="Arch" src="https://github.com/user-attachments/assets/5f80282d-f909-42ca-8dfb-2060f7a75716" />
+
+**Technologies
+**Keycloak — Identity and Access Management
 OIDC — Authentication and identity federation
 RBAC — Role-based authorization
 Flask — Protected web application
